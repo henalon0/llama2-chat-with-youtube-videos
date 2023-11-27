@@ -2,7 +2,7 @@
 
 # LLaMA, LangChain & Pinecone - Chat with YouTube Videos
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/henalon0)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/henalon0/llama2-chat-with-youtube-videos/blob/main/LLaMA%2C%20LangChain%20%26%20Pinecone%20-%20Chat%20with%20Youtube%20Videos.ipynb)
 
 ## Overview
 
